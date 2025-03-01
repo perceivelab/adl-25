@@ -12,10 +12,10 @@ layout: default
 ---
 # FORUM 
 {: #tag}
-During the course, Discord will be used as a space to discuss all technical aspects and **for announcements**. Enrollment in the server through the following [link](https://discord.gg/2nmkEMKbDw) is highly recommended.
+During the course, Discord will be used as a space to discuss all technical aspects and **for announcements**. Enrollment in the server through the following [link](https://discord.gg/6KYq9Gq9Fw) is highly recommended.
 
 # ANNOUNCEMENTS
-- 24/02/2025 - Classes will start on 05/03/2025.
+- 24/02/2025 - Classes will start on 12/03/2025.
 
 ---
 # EXAM
@@ -28,10 +28,10 @@ The exam consists of two phases:
 These two parts can be completed separately on different dates. The grade for each phase will be retained until the last official exam date of 2025. This means that, for instance, a student can take the theoretical exam in June and present the project in September (or vice versa), with the theoretical exam grade remaining valid. However, if the project is completed in 2026, the theoretical exam must be retaken.
 
 ### Official Exam Dates 2025
-- **01/07/2025**
-- **24/07/2025**
-- **09/09/2025**
-- **24/09/2025**
+- **26/06/2025**
+- **16/07/2025**
+- **03/09/2025**
+- **2419/09/2025**
 
 ---
 # PROJECT
@@ -55,6 +55,7 @@ The project can be of two types:
 
 **Office hours**: [To be arranged via email]
 
+- *[Giovanni Bellitto](mailto:giovanni.bellito@unict.it)*
 - *[Concetto Spampinato](mailto:concetto.spampinato@unict.it)*
-- *[Simone Palazzo](mailto:simone.palazzo@unict.it)*
-- *[Marco Finocchiaro](mailto:finocchiaro.marco@phd.unict.it)*
+- *[Salvatore Calcagno](mailto:salvatore.calcagno@phd.unict.it)*
+

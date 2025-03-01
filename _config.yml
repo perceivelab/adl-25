@@ -1,7 +1,7 @@
-name: Deep Learning Course
+name: Advanced Deep Learning Course
 markdown: kramdown
 
-baseurl: "/deeplearning-2025"
+baseurl: "/adl-25"
 url: "https://perceivelab.github.io"
 theme: jekyll-theme-cayman
 
