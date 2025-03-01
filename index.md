@@ -6,8 +6,8 @@ layout: default
 
 | Date and Room        |
 | :----------------: |
-| Wednesday 17-20, D22 |
-| Friday   11-13, D31 |
+| Wednesday 11-13, MI6@DMI |
+| Friday     9-11, MI6@DMI |
 
 ---
 # FORUM 
