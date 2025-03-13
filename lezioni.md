@@ -6,7 +6,7 @@ layout: page
 
 | Lecture | Topic                                             | Date                | Slides | Notes | Code |
 |---------|---------------------------------------------------|----------------------|--------|-------|------|
-| 1       | Neural Networks and Optimization                    | March 12, 2025      |        |       |      |
+| 1       | Neural Networks and Optimization                    | March 12, 2025      | [Link1](https://studentiunict-my.sharepoint.com/:b:/g/personal/giovanni_bellitto_unict_it/Ef2gv9_0pM5JkRFcBhSYpB0Bko4KsRXwqscFulKnuW_RVg?e=IjGe6j)   [Link2](https://studentiunict-my.sharepoint.com/:b:/g/personal/giovanni_bellitto_unict_it/EUkYuxolkr9Aj5ubvNSGWYEBlupyj7J8gEcf8oO0MtamdQ?e=4PhnH4)      |       |      |
 | 2       | Introduction to PyTorch                             | March 14, 2025      |        |       |      |
 | 3       | Convolutional Neural Networks + Transfer Learning   | March 19, 2025      |        |       |      |
 | 4       | Train a CNN with PyTorch                            | March 21, 2025      |        |       |      |
@@ -27,3 +27,7 @@ layout: page
 | 19      | Computer Vision Applications                        | May 28, 2025        |        |       |      |
 | 20      | Ethics and Regulation in AI                         | May 30, 2025        |        |       |      |
 | 21      | Invited Talk on AI                                  | June 4, 2025        |        |       |      |
+
+
+
+
