@@ -11,7 +11,7 @@ layout: page
 | 3       | Convolutional Neural Networks + Transfer Learning   | March 19, 2025      | [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/giovanni_bellitto_unict_it/EVW1HXRmEYREnt9hskQRiggBp6JFujIyXlQuZtOct8RzYQ?e=3Mdfbi)       |       |      |
 | 4       | Train a CNN with PyTorch                            | March 21, 2025      |  [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/giovanni_bellitto_unict_it/EeRAa4A1qG9Djv6G9ridmoMBYqaUsSC0wPsCoRcUOg4EEA?e=YUI3hU)       |       |   [Link](https://colab.research.google.com/drive/19BJgLckiRfuNWhlAyWOq2Fc_6q93Mq7J?usp=sharing) |
 | 5       | LSTM and RNN                                        | March 26, 2025      | [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/giovanni_bellitto_unict_it/EQIeLAu7sR1NjolqngIWy5QBOHLNVNAunc2qG6FtUPDbrQ?e=RkRjsk)       |       |      |
-| 6       | XAI                                                 | March 28, 2025      |        |       |      |
+| 6       | XAI                                                 | March 28, 2025      | [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/concetto_spampinato_unict_it/ESsgxCgYO2xJozDjf52NkKcBAYcyo1Bat4fyAafyWREo7A?e=kofMxs)       |       |      |
 | 7       | Captum                                              | April 2, 2025       |        |       |      |
 | 8       | Generative AI: Part 1                               | April 4, 2025       |        |       |      |
 | 9       | Generative AI: Part 2                               | April 9, 2025       |        |       |      |
