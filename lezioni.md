@@ -12,7 +12,7 @@ layout: page
 | 4       | Train a CNN with PyTorch                            | March 21, 2025      |  [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/giovanni_bellitto_unict_it/EeRAa4A1qG9Djv6G9ridmoMBYqaUsSC0wPsCoRcUOg4EEA?e=YUI3hU)       |       |   [Link](https://colab.research.google.com/drive/19BJgLckiRfuNWhlAyWOq2Fc_6q93Mq7J?usp=sharing) |
 | 5       | LSTM and RNN                                        | March 26, 2025      | [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/giovanni_bellitto_unict_it/EQIeLAu7sR1NjolqngIWy5QBOHLNVNAunc2qG6FtUPDbrQ?e=RkRjsk)       |       |      |
 | 6       | XAI                                                 | March 28, 2025      | [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/concetto_spampinato_unict_it/ESsgxCgYO2xJozDjf52NkKcBAYcyo1Bat4fyAafyWREo7A?e=kofMxs)       |       |      |
-| 7       |  Generative AI: Part 1                              | April 2, 2025       |        |       |      |
+| 7       |  Generative AI: Part 1                              | April 2, 2025       | [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/concetto_spampinato_unict_it/EZwuPVLSBFZOmf_oiNp-IAsBbnC--Fw66px8h67Ujo-LkQ?e=VSJh8A)       |       |      |
 | 8       |  Captum                                             | April 4, 2025       |        |       |      |
 | 9       | Generative AI: Part 2                               | April 9, 2025       |        |       |      |
 | 10      | Create a GenModel with PyTorch                      | April 11, 2025      |        |       |      |
