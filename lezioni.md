@@ -13,7 +13,7 @@ layout: page
 | 5       | LSTM and RNN                                        | March 26, 2025      | [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/giovanni_bellitto_unict_it/EQIeLAu7sR1NjolqngIWy5QBOHLNVNAunc2qG6FtUPDbrQ?e=RkRjsk)       |       |      |
 | 6       | XAI                                                 | March 28, 2025      | [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/concetto_spampinato_unict_it/ESsgxCgYO2xJozDjf52NkKcBAYcyo1Bat4fyAafyWREo7A?e=kofMxs)       |       |      |
 | 7       |  Generative AI: Part 1                              | April 2, 2025       | [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/concetto_spampinato_unict_it/EZwuPVLSBFZOmf_oiNp-IAsBbnC--Fw66px8h67Ujo-LkQ?e=VSJh8A)       |       |      |
-| 8       |  Captum                                             | April 4, 2025       |        |       |      |
+| 8       |  Captum                                             | April 4, 2025       |        |       |  [Link](https://colab.research.google.com/drive/1fHocvsKAmubLcs9_DEGWP11Xo9cc7Vbq?usp=sharing)     |
 | 9       | Generative AI: Part 2                               | April 9, 2025       |        |       |      |
 | 10      | Create a GenModel with PyTorch                      | April 11, 2025      |        |       |      |
 | 11      | Transformers                                        | April 23, 2025      |        |       |      |
