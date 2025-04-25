@@ -17,17 +17,13 @@ layout: page
 | 9       | Generative AI: Part 2                               | April 9, 2025       |        |       |      |
 | 10      | Create a GenModel with PyTorch                      | April 11, 2025      |        |       | [Link](https://colab.research.google.com/drive/1zHhVdxF8Evtl1Hy7kbZKRdk5gsEmg1au?usp=sharing)     |
 | 11      | Transformers                                        | April 23, 2025      |  [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/giovanni_bellitto_unict_it/ESwGuDB_8tFPma5qbWuq1qoBKs4i9F7EPbhcT6qZVjATCA?e=mWEATa)      |       |      |
-| 12      | Transformers in Vision                              | April 30, 2025      |        |       |      |
-| 13      | Transformers with PyTorch                           | May 7, 2025         |        |       |      |
-| 14      | Language Models                                     | May 9, 2025         |        |       |      |
-| 15      | Transformers with Time Series                       | May 14, 2025        |        |       |      |
-| 16      | Foundation Models                                   | May 16, 2025        |        |       |      |
-| 17      | How to Use Foundation Models + Prompt Learning      | May 21, 2025        |        |       |      |
-| 18      | Medical Image Analysis through AI                   | May 23, 2025        |        |       |      |
-| 19      | Computer Vision Applications                        | May 28, 2025        |        |       |      |
-| 20      | Ethics and Regulation in AI                         | May 30, 2025        |        |       |      |
-| 21      | Invited Talk on AI                                  | June 4, 2025        |        |       |      |
-
-
-
-
+| 12      | Language Models + Practical                         | April 30, 2025      |        |       |      |
+| 13      | Transformers in Vision and for Multimodal data      | May 7, 2025         |        |       |      |
+| 14      | Practical Class on Multimodal Training              | May 14, 2025        |        |       |      |
+| 15      | Transformers for Audio                              | May 16, 2025        |        |       |      |
+| 16      | How to Use Foundation Models + Prompt Learning      | May 21, 2025        |        |       |      |
+| 17      | Practical Class on Adapting Foundation Models       | May 23, 2025        |        |       |      |
+| 18      | Medical Image Analysis                              | May 28, 2025        |        |       |      |
+| 19      | Computer Vision Applications                        | May 30, 2025        |        |       |      |
+| 20      | Ethics and Regulation in AI                         | June 4, 2025        |        |       |      |
+| 21      | Invited Talk on AI                                  | June 6, 2025        |        |       |      |
