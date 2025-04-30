@@ -17,7 +17,7 @@ layout: page
 | 9       | Generative AI: Part 2                               | April 9, 2025       |        |       |      |
 | 10      | Create a GenModel with PyTorch                      | April 11, 2025      |        |       | [Link](https://colab.research.google.com/drive/1zHhVdxF8Evtl1Hy7kbZKRdk5gsEmg1au?usp=sharing)     |
 | 11      | Transformers                                        | April 23, 2025      | [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/giovanni_bellitto_unict_it/ESwGuDB_8tFPma5qbWuq1qoBKs4i9F7EPbhcT6qZVjATCA?e=mWEATa)      |       |      |
-| 12      | Language Models + Practical                         | April 30, 2025      | [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/giovanni_bellitto_unict_it/ERm75MkeT29LmwWlRSeTYbgBcbyQXs_xuRkYmXns_h8DVw?e=arDo7y)      |       |      |
+| 12      | Language Models + Practical                         | April 30, 2025      | [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/giovanni_bellitto_unict_it/ERm75MkeT29LmwWlRSeTYbgBcbyQXs_xuRkYmXns_h8DVw?e=arDo7y)      |       | [Link1](https://drive.google.com/file/d/11OtCYdXcP0Q8CJKqABK4xzXM76lHt34X/view?usp=sharing) [Link2](https://drive.google.com/file/d/1lofn_scoIRmUTH6dHVVB8N25YfcRKrL4/view?usp=sharing)     |
 | 13      | Transformers in Vision and for Multimodal data      | May 7, 2025         |        |       |      |
 | 14      | Practical Class on Multimodal Training              | May 14, 2025        |        |       |      |
 | 15      | Transformers for Audio                              | May 16, 2025        |        |       |      |
