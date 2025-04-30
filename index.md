@@ -15,6 +15,7 @@ layout: default
 During the course, Discord will be used as a space to discuss all technical aspects and **for announcements**. Enrollment in the server through the following [link](https://discord.gg/6KYq9Gq9Fw) is highly recommended.
 
 # ANNOUNCEMENTS
+- 30/04/2025 - The DL 2025 Kaggle Competition is available [here](https://www.kaggle.com/t/1b48e17ac389469da366a004ff88e530).
 - 24/02/2025 - Classes will start on 12/03/2025.
 
 ---
