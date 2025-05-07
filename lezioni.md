@@ -24,6 +24,6 @@ layout: page
 | 16      | How to Use Foundation Models + Prompt Learning      | May 21, 2025        |        |       |      |
 | 17      | Practical Class on Adapting Foundation Models       | May 23, 2025        |        |       |      |
 | 18      | Medical Image Analysis                              | May 28, 2025        |        |       |      |
-| 19      | Computer Vision Applications                        | May 30, 2025        |        |       |      |
-| 20      | Ethics and Regulation in AI                         | June 4, 2025        |        |       |      |
+| 19      | Ethics and Regulation in AI                         | May 30, 2025        |        |       |      |
+| 20      | Computer Vision Applications                        | June 4, 2025        |        |       |      |
 | 21      | Invited Talk on AI                                  | June 6, 2025        |        |       |      |
