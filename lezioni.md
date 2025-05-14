@@ -19,8 +19,8 @@ layout: page
 | 11      | Transformers                                        | April 23, 2025      | [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/giovanni_bellitto_unict_it/ESwGuDB_8tFPma5qbWuq1qoBKs4i9F7EPbhcT6qZVjATCA?e=mWEATa)      |       |      |
 | 12      | Language Models + Practical                         | April 30, 2025      | [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/giovanni_bellitto_unict_it/ERm75MkeT29LmwWlRSeTYbgBcbyQXs_xuRkYmXns_h8DVw?e=arDo7y)      |       | [Link1](https://drive.google.com/file/d/11OtCYdXcP0Q8CJKqABK4xzXM76lHt34X/view?usp=sharing) [Link2](https://drive.google.com/file/d/1lofn_scoIRmUTH6dHVVB8N25YfcRKrL4/view?usp=sharing)     |
 | 13      | Transformers in Vision and for Multimodal data      | May 7, 2025         | [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/giovanni_bellitto_unict_it/EWovHCDyvV5Kl1-HUmIrd6sBJK1QH9UNleA0a9LbibyBEw?e=N2Ryrt)       |       | [Link](https://drive.google.com/file/d/14QChMkjknCWGFIvbPuNb-FKgP1giMd5Q/view?usp=sharing)     |
-| 14      | Practical Class on Multimodal Training              | May 14, 2025        |        |       |      |
-| 15      | Transformers for Audio                              | May 16, 2025        |        |       |      |
+| 14      | Transformers for Audio                              | May 14, 2025        |  [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/giovanni_bellitto_unict_it/EY4mRTbIYydAo561tWoBFaYBLzeezZD5zvVHEJxkFi4Gng?e=YM5ZZU)      |       |      |
+| 15      | Practical Class on Multimodal Training              | May 16, 2025        |        |       |      |
 | 16      | How to Use Foundation Models + Prompt Learning      | May 21, 2025        |        |       |      |
 | 17      | Practical Class on Adapting Foundation Models       | May 23, 2025        |        |       |      |
 | 18      | Medical Image Analysis                              | May 28, 2025        |        |       |      |
