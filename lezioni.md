@@ -8,7 +8,7 @@ layout: page
 |---------|-----------------------------------------------------|---------------------|--------|-------|------|
 | 1       | Neural Networks and Optimization                    | March 12, 2025      | [Link1](https://studentiunict-my.sharepoint.com/:b:/g/personal/giovanni_bellitto_unict_it/Ef2gv9_0pM5JkRFcBhSYpB0Bko4KsRXwqscFulKnuW_RVg?e=IjGe6j)   [Link2](https://studentiunict-my.sharepoint.com/:b:/g/personal/giovanni_bellitto_unict_it/EUkYuxolkr9Aj5ubvNSGWYEBlupyj7J8gEcf8oO0MtamdQ?e=4PhnH4)      |       |      |
 | 2       | Introduction to PyTorch                             | March 14, 2025      |        |       | [Link](https://colab.research.google.com/drive/1ecq83uyPRhHjVyX7RgRdGXHJqzWDe2nT?usp=sharing)      |
-| 3       | Convolutional Neural Networks + Transfer Learning   | March 19, 2025      | [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/giovanni_bellitto_unict_it/EVW1HXRmEYREnt9hskQRiggBp6JFujIyXlQuZtOct8RzYQ?e=3Mdfbi)      |       |      |
+| 3       | Convolutional Neural Networks    | March 19, 2025      | [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/giovanni_bellitto_unict_it/EVW1HXRmEYREnt9hskQRiggBp6JFujIyXlQuZtOct8RzYQ?e=3Mdfbi)      |       |      |
 | 4       | Train a CNN with PyTorch                            | March 21, 2025      | [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/giovanni_bellitto_unict_it/EeRAa4A1qG9Djv6G9ridmoMBYqaUsSC0wPsCoRcUOg4EEA?e=YUI3hU)      |       | [Link](https://colab.research.google.com/drive/19BJgLckiRfuNWhlAyWOq2Fc_6q93Mq7J?usp=sharing) |
 | 5       | LSTM and RNN                                        | March 26, 2025      | [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/giovanni_bellitto_unict_it/EQIeLAu7sR1NjolqngIWy5QBOHLNVNAunc2qG6FtUPDbrQ?e=RkRjsk)      |       |      |
 | 6       | XAI                                                 | March 28, 2025      | [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/concetto_spampinato_unict_it/ESsgxCgYO2xJozDjf52NkKcBAYcyo1Bat4fyAafyWREo7A?e=kofMxs)    |       |      |
@@ -26,4 +26,4 @@ layout: page
 | 18      | Medical Image Analysis                              | May 28, 2025        |        |       |      |
 | 19      | Ethics and Regulation in AI                         | May 30, 2025        |        |       |      |
 | 20      | Computer Vision Applications                        | June 4, 2025        |        |       |      |
-| 21      | Invited Talk on AI                                  | June 6, 2025        |        |       |      |
+| 21      | TBD                                                 | June 6, 2025        |        |       |      |
