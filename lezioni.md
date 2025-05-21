@@ -22,7 +22,7 @@ layout: page
 | 14      | Transformers for Audio                              | May 14, 2025        |  [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/giovanni_bellitto_unict_it/EY4mRTbIYydAo561tWoBFaYBLzeezZD5zvVHEJxkFi4Gng?e=YM5ZZU)      |       |      |
 | 15      | Practical Class on Multimodal Training              | May 16, 2025        |        |       |  [Link](https://drive.google.com/file/d/1C-hUjYWNtKqUnn4sf9VFYWFaTVpOJlqa/view?usp=sharing)    |
 | 16      | How to Use Foundation Models + Prompt Learning      | May 21, 2025        |        |       |      |
-| 17      | Practical Class on Adapting Foundation Models       | May 23, 2025        |        |       |      |
+| 17      | Foundation Models                                   | May 23, 2025        |        |       |      |
 | 18      | Medical Image Analysis                              | May 28, 2025        |        |       |      |
 | 19      | Ethics and Regulation in AI                         | May 30, 2025        |        |       |      |
 | 20      | TBD                                                 | June 4, 2025        |        |       |      |
