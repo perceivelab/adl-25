@@ -21,9 +21,9 @@ layout: page
 | 13      | Transformers in Vision and for Multimodal data      | May 7, 2025         | [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/giovanni_bellitto_unict_it/EWovHCDyvV5Kl1-HUmIrd6sBJK1QH9UNleA0a9LbibyBEw?e=N2Ryrt)       |       | [Link](https://drive.google.com/file/d/14QChMkjknCWGFIvbPuNb-FKgP1giMd5Q/view?usp=sharing)     |
 | 14      | Transformers for Audio                              | May 14, 2025        |  [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/giovanni_bellitto_unict_it/EY4mRTbIYydAo561tWoBFaYBLzeezZD5zvVHEJxkFi4Gng?e=YM5ZZU)      |       |      |
 | 15      | Practical Class on Multimodal Training              | May 16, 2025        |        |       |  [Link](https://drive.google.com/file/d/1C-hUjYWNtKqUnn4sf9VFYWFaTVpOJlqa/view?usp=sharing)    |
-| 16      | How to Use Foundation Models + Prompt Learning      | May 21, 2025        |  [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/giovanni_bellitto_unict_it/Ec9_IVtUIFVIjPHg7RVOgHEBThxW_ZTQ-YZktCikvu3ujg?e=pEVFme)      |       |  [Link](https://drive.google.com/file/d/1PcE1DAxos-_KmmMgjXf5E5eisNiuULUO/view?usp=sharing)    |
+| 16      | How to Use Foundation Models + Prompt Learning      | May 21, 2025        |  [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/giovanni_bellitto_unict_it/EU_vZN8EZV1Lmakpe3TdQY4BfT1Ojz_GqKTuTm9O5GkhlQ?e=uj36rZ)      |       |  [Link](https://drive.google.com/file/d/1PcE1DAxos-_KmmMgjXf5E5eisNiuULUO/view?usp=sharing)    |
 | 17      | Foundation Models                                   | May 23, 2025        |        |       |      |
-| 18      | Medical Image Analysis                              | May 28, 2025        |        |       |      |
+| 18      | Medical Image Analysis                              | May 28, 2025        |        |       |      | 
 | 19      | Ethics and Regulation in AI                         | May 30, 2025        |        |       |      |
 | 20      | TBD                                                 | June 4, 2025        |        |       |      |
 | 21      | TBD                                                 | June 6, 2025        |        |       |      |
