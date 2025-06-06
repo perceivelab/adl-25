@@ -23,6 +23,6 @@ layout: page
 | 15      | Practical Class on Multimodal Training              | May 16, 2025        |        |       |  [Link](https://drive.google.com/file/d/1C-hUjYWNtKqUnn4sf9VFYWFaTVpOJlqa/view?usp=sharing)    |
 | 16      | How to Use Foundation Models + Prompt Learning      | May 21, 2025        |  [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/giovanni_bellitto_unict_it/EU_vZN8EZV1Lmakpe3TdQY4BfT1Ojz_GqKTuTm9O5GkhlQ?e=uj36rZ)      |       |  [Link](https://drive.google.com/file/d/1PcE1DAxos-_KmmMgjXf5E5eisNiuULUO/view?usp=sharing)    |
 | 17      | Foundation Models                                   | May 23, 2025        | [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/giovanni_bellitto_unict_it/EUIfXot92KRIjJ0Yubqk7X8B-MUYSjNCKXff_7ZNsb4oww?e=jDdsq9)       |       |      |
-| 18      | Ethics and Regulation in AI                         | May 30, 2025        |        |       |      |
-| 19      | AI research directions                              | June 6, 2025        |        |       |      |
+| 18      | Ethics and Regulation in AI                         | May 30, 2025        | [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/giovanni_bellitto_unict_it/EZBRaJAZxTRMia849CjdjmcB6o95C9PcpmBFt675YqzF3g?e=JDYyaw)      |       |      |
+| 19      | AI research directions                              | June 6, 2025        | [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/giovanni_bellitto_unict_it/EecPJCf0pnFEouYeXkjbgLsBlq0gPbhJEjArfkVUWv5gdw?e=bEOkbf)       |       |      |
 | 20      | Theory test exam & project presentation             | June 13, 2025        |        |       |      |
