@@ -15,6 +15,7 @@ layout: default
 During the course, Discord will be used as a space to discuss all technical aspects and **for announcements**. Enrollment in the server through the following [link](https://discord.gg/6KYq9Gq9Fw) is highly recommended.
 
 # ANNOUNCEMENTS
+- 04/07/2025 - **The Deep Learning exam, originally scheduled for July 16, has been rescheduled for July 23. The exam will take place at 9:30, in Room B, Polo Tecnologico (via santa Sofia, 102)**. 
 - 06/06/2025 - The report template is available [here](https://www.overleaf.com/read/fttvfxqgvfvs#16a116).
 - 03/06/2025 - **Lecture#19, originally scheduled for June 4, has been rescheduled to Friday, June 6, from 9:00 to 11:00.**
 - 30/04/2025 - The DL 2025 Kaggle Competition is available [here](https://www.kaggle.com/t/1b48e17ac389469da366a004ff88e530).
